@@ -6,7 +6,7 @@ const NavBar = ({ totalCounters }) => {
   return (
     <nav className="navbar bg-light">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="https://github.com/M-Hatami/react-shopping-cart" target="_blank" rel="noreferrer">
           نوار گزینه <span className="badge bg-secondary">{totalCounters}</span>
         </a>
       </div>
