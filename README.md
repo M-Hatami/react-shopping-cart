@@ -1,3 +1,6 @@
+# info
+This is a Right-To-Left AKA RTL page for Farsi/Persian and Arabic language users designed by React Components to present an example of a online shopping cart you can have a look at the [live demo](https://react-rtl-shopping-cart.netlify.app/ "عربة التسوق") of this project here.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
